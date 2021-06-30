@@ -4,4 +4,4 @@ Added new lines for test
 
 hello world
 
-new change in githbu
+new change in githbub
